@@ -174,7 +174,7 @@ img {
 }
 #page-wrap {
   overflow: hidden;
-  background-color: #f7f7f7;
+  background-color: rgb(5, 120, 190);
 }
 .awe-parallax {
   background-position: 50% 50%;
@@ -207,7 +207,7 @@ img {
   z-index: -3;
   width: 100%;
   height: 100%;
-  background-color: #232323;
+  background-color: rgb(5, 120, 190);
 }
 .awe-overlay {
   position: absolute;
@@ -228,7 +228,7 @@ img {
   line-height: normal;
   padding: 8px 10px;
   font-size: 12px;
-  color: #000;
+  color:rgb(5, 120, 190);
   min-width: 110px;
   border-width: 0;
   text-align: center;
@@ -241,8 +241,8 @@ img {
   border: 2px solid #000;
 }
 .awe-btn.awe-btn-default:hover {
-  border-color: #344a71;
-  background-color: #344a71;
+  border-color: rgb(5, 120, 190);
+  background-color: rgb(5, 120, 190);
   color: #fff;
 }
 .awe-btn.awe-btn-1 {
@@ -286,12 +286,12 @@ img {
   color: #fff;
 }
 .awe-btn.awe-btn-6 {
-  border: 2px solid #344a71;
-  background-color: #344a71;
+  border: 2px solid rgb(5, 120, 190);
+  background-color: rgb(5, 120, 190);
   color: #fff;
 }
 .awe-btn.awe-btn-6:hover {
-  color: #344a71;
+  color: rgb(5, 120, 190);
   background-color: transparent;
 }
 .awe-btn.awe-btn-7 {
@@ -355,8 +355,8 @@ img {
   color: #fff;
 }
 .awe-btn.awe-btn-13:hover {
-  border-color: #344a71;
-  background-color: #344a71;
+  border-color: rgb(5, 120, 190);
+  background-color: rgb(5, 120, 190);
 }
 .awe-btn.awe-btn-14 {
   border: 2px solid #000;
@@ -391,7 +391,7 @@ h6,
 .h6 {
   font-weight: normal;
   line-height: 1.5em;
-  color: #232323;
+  color: rgb(5, 120, 190);
   font-family: 'Montserrat';
   margin: 0;
 }
@@ -407,7 +407,7 @@ h5 a,
 .h5 a,
 h6 a,
 .h6 a {
-  color: inherit;
+  color: rgb(5, 120, 190);
 }
 h1,
 .h1 {
@@ -436,12 +436,12 @@ h6,
   font-size: 14.12px;
 }
 abbr {
-  color: #A1D71A;
+  color: rgb(5, 120, 190);
   border-width: 2px;
 }
 mark,
 .mark {
-  background-color: #232323;
+  background-color:rgb(5, 120, 190);
 }
 .icon {
   display: inline-block;
@@ -465,7 +465,7 @@ mark,
 }
 .hr:after {
   float: right;
-  background-color: #e3e3e3;
+  background-color: rgb(5, 120, 190);
   background-image: -webkit-gradient(linear, left top, right top, from(#e3e3e3), to(#ffffff));
   background-image: -webkit-linear-gradient(left, #e3e3e3, #ffffff);
   background-image: -moz-linear-gradient(left, #e3e3e3, #ffffff);
@@ -474,7 +474,7 @@ mark,
 }
 .hr:before {
   float: left;
-  background-color: #ffffff;
+  background-color: rgb(5, 120, 190);
   background-image: -webkit-gradient(linear, left top, right top, from(#ffffff), to(#e3e3e3));
   background-image: -webkit-linear-gradient(left, #ffffff, #e3e3e3);
   background-image: -moz-linear-gradient(left, #ffffff, #e3e3e3);
@@ -483,7 +483,7 @@ mark,
 }
 .heading {
   margin: 0;
-  color: rgb(236,170,65);
+  color: rgb(5, 120, 190);
   font-size: 36px;
   font-weight: bold;
   font-family: 'Montserrat';
@@ -495,7 +495,7 @@ mark,
   color: #fff;
 }
 .sub-heading {
-  color: #333333;
+  color: rgb(5, 120, 190);
   font-size: 20px;
   margin-bottom: 0;
   margin-top: 15px;
@@ -516,7 +516,7 @@ blockquote {
 }
 blockquote p {
   margin: 0;
-  color: #444444;
+  color: rgb(5, 120, 190);
   font-weight: 600;
   font-style: italic;
   line-height: 1.428em;
@@ -542,10 +542,10 @@ blockquote p:after {
   background-color: #f1f1f1;
 }
 .bg-blue {
-  background-color: #344a71;
+  background-color:rgb(5, 120, 190);
 }
 .tabs {
-  background-color: transparent;
+  background-color:rgb(5, 120, 190);
   border-width: 0;
   padding: 0;
   -webkit-border-radius: 0;
@@ -580,7 +580,7 @@ blockquote p:after {
 }
 .tabs .ui-tabs-nav li:hover a,
 .tabs .ui-tabs-nav li.ui-tabs-active a {
-  color: #516d9b !important;
+  color: rgb(5, 120, 190) !important;
 }
 .tabs .ui-tabs-panel {
   padding: 0;
@@ -599,15 +599,15 @@ blockquote p:after {
   -o-transition: all 0.2s ease;
 }
 .tabs.tabs-2 .ui-tabs-nav li:hover a {
-  color: #232323 !important;
+  color:rgb(5, 120, 190)!important;
   border-color: #464646;
 }
 .tabs.tabs-2 .ui-tabs-nav li.ui-tabs-active a {
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   color: #fff !important;
 }
 .accordion .ui-accordion-header {
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   color: #fff;
   padding: 10px 20px;
   font-family: 'Hind';
@@ -629,7 +629,7 @@ blockquote p:after {
 .accordion .ui-accordion-content {
   background-color: transparent;
   padding: 15px 20px;
-  border: 2px solid #344a71;
+  border: 2px solid rgb(5, 120, 190);
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
@@ -656,7 +656,7 @@ blockquote p:after {
   line-height: 36px;
 }
 .awe-calendar-wrapper .awe-calendar::-webkit-input-placeholder {
-  color: #333333;
+  color: rgb(5, 120, 190);
 }
 .awe-calendar-wrapper .awe-calendar:-moz-placeholder {
   color: #333333;
@@ -719,7 +719,7 @@ blockquote p:after {
 .bootstrap-select.btn-group.awe-select .dropdown-menu ul li a {
   padding: 10px 20px;
   font-family: 'Montserrat';
-  color: #333;
+  color:rgb(5, 120, 190);
   font-size: 12px;
   border-bottom: 1px solid #f1f1f1;
   -webkit-transition: all 0.3s ease;
@@ -970,7 +970,7 @@ blockquote p:after {
   overflow: hidden;
 }
 .awe-popup-overlay {
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgb(5, 120, 190);
   position: fixed;
   z-index: 99999;
   top: 0;
@@ -1132,7 +1132,7 @@ blockquote p:after {
 }
 .header_top .header_left span {
   font-size: 12px;
-  color: #acacac;
+  color:rgb(5, 120, 190);
   margin-right: 15px;
   line-height: 36px;
 }
@@ -1168,7 +1168,7 @@ blockquote p:after {
   display: inline-block;
 }
 .header_top .header_right .dropdown span {
-  color: #acacac;
+  color:rgb(5, 120, 190);
   line-height: 36px;
   display: inline-block;
   padding-left: 10px;
@@ -1244,7 +1244,7 @@ blockquote p:after {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   opacity: .85;
   top: 0;
   left: 0;
@@ -1692,7 +1692,7 @@ blockquote p:after {
 #preloader .preloader-dot {
   width: 0;
   height: 0;
-  border: 2px solid #344a71;
+  border: 2px solid rgb(5, 120, 190);
   position: absolute;
   top: 0;
   left: 0;
@@ -1847,7 +1847,7 @@ blockquote p:after {
 }
 .accomd-modations-room .text {
   position: absolute;
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   padding: 10px 20px;
   top: 0;
   left: 18px;
@@ -1995,7 +1995,7 @@ blockquote p:after {
   bottom: 0;
   left: -5000px;
   content: '';
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   opacity: .85;
   width: 10000px;
   position: absolute;
@@ -2417,7 +2417,7 @@ blockquote p:after {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   opacity: .9;
   top: 0;
   left: 0;
@@ -2614,11 +2614,11 @@ blockquote p:after {
   opacity: 0;
   pointer-events: none;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -2709,7 +2709,7 @@ blockquote p:after {
 }
 .gallery-cat ul li:hover a,
 .gallery-cat ul li.active a {
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   color: #fff;
 }
 .mfp-wrap {
@@ -2849,7 +2849,7 @@ blockquote p:after {
 }
 .sidebar .widget.widget_check_availability .check_availability .check_availability_title {
   margin-top: 25px;
-  color: #344a71;
+  color: rgb(5, 120, 190);
   font-size: 14px;
   text-transform: uppercase;
   font-family: 'Montserrat';
@@ -2948,11 +2948,11 @@ blockquote p:after {
   position: absolute;
   pointer-events: none;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
 }
 .sidebar .widget .widget-deal .item .img {
   position: relative;
@@ -3131,8 +3131,8 @@ blockquote p:after {
 }
 .sidebar .widget.widget_tag_cloud .tagcloud a:hover {
   color: #fff;
-  background-color: #344a71;
-  border-color: #344a71;
+  background-color: rgb(5, 120, 190);
+  border-color: rgb(5, 120, 190);
 }
 .sidebar .widget.widget_social .widget-social {
   font-size: 0;
@@ -3249,11 +3249,11 @@ blockquote p:after {
   pointer-events: none;
   z-index: 10;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
@@ -3989,7 +3989,7 @@ blockquote p:after {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   opacity: .9;
   top: 0;
   left: 0;
@@ -4208,11 +4208,11 @@ blockquote p:after {
   opacity: 0;
   pointer-events: none;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -4338,11 +4338,11 @@ blockquote p:after {
   z-index: 1;
   pointer-events: none;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -4424,11 +4424,11 @@ blockquote p:after {
   opacity: 0;
   pointer-events: none;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -4587,11 +4587,11 @@ blockquote p:after {
   opacity: 0;
   pointer-events: none;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -4757,11 +4757,11 @@ blockquote p:after {
   opacity: 0;
   pointer-events: none;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -4895,7 +4895,7 @@ blockquote p:after {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   opacity: .8;
   top: 0;
   left: 0;
@@ -5624,11 +5624,11 @@ blockquote p:after {
   z-index: 1;
   pointer-events: none;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -5884,11 +5884,11 @@ blockquote p:after {
   z-index: 10;
   pointer-events: none;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -6071,7 +6071,7 @@ blockquote p:after {
   padding-bottom: 30px;
 }
 .attraction_sidebar .attraction_sidebar-content .attraction_title {
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   color: #fff;
   font-family: 'Montserrat';
   font-size: 12px;
@@ -6187,7 +6187,7 @@ blockquote p:after {
   color: #333;
 }
 .attraction_content p a {
-  color: #344a71;
+  color: rgb(5, 120, 190);
   text-decoration: underline;
   font-weight: bold;
 }
@@ -6248,11 +6248,11 @@ blockquote p:after {
   pointer-events: none;
   z-index: 10;
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#344a71));
-  background: -webkit-linear-gradient(top, transparent, #344a71);
-  background: -moz-linear-gradient(top, transparent, #344a71);
-  background: -ms-linear-gradient(top, transparent, #344a71);
-  background: -o-linear-gradient(top, transparent, #344a71);
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgb(5, 120, 190)));
+  background: -webkit-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -moz-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -ms-linear-gradient(top, transparent, rgb(5, 120, 190));
+  background: -o-linear-gradient(top, transparent, rgb(5, 120, 190));
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -6446,7 +6446,7 @@ blockquote p:after {
   overflow: hidden;
 }
 .guest-book .guest-book_head .text {
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   float: right;
   width: 400px;
   padding: 30px 45px 40px 45px;
@@ -7311,7 +7311,7 @@ blockquote p:after {
 }
 .reservation_step ul li.active:before,
 .reservation_step ul li:hover:before {
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
 }
 /* END / STEP  */
 /* RESERVATION DATE */
@@ -7386,13 +7386,13 @@ blockquote p:after {
   -o-transition: all 0.3s ease;
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_name h2 a:hover {
-  color: #344a71;
+  color: rgb(5, 120, 190);
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_name .reservation-amout {
   float: right;
   font-weight: bold;
   font-size: 14px;
-  color: #344a71;
+  color: rgb(5, 120, 190);
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_name.has-package h2 {
   font-size: 16px;
@@ -7455,7 +7455,7 @@ blockquote p:after {
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_total-room .reservation-amout {
   float: right;
-  color: #344a71;
+  color: rgb(5, 120, 190);
 }
 .reservation-room-selected .reservation-room-seleted_item.reservation_disable {
   background-color: #f1f1f1;
@@ -7511,7 +7511,7 @@ blockquote p:after {
 }
 .reservation-room-selected .reservation-room-seleted_total .reservation-total {
   float: right;
-  color: #344a71;
+  color: rgb(5, 120, 190);
   font-size: 18px;
 }
 .reservation-room-selected .reservation-room-seleted_total.bg-blue {
@@ -7545,7 +7545,7 @@ blockquote p:after {
 }
 .reservation-sidebar_availability .check_availability_title {
   margin-top: 20px;
-  color: #344a71;
+  color: rgb(5, 120, 190);
   font-size: 14px;
   text-transform: uppercase;
   font-family: 'Montserrat';
@@ -7680,8 +7680,8 @@ blockquote p:after {
   -o-transition: all 0.3s ease;
 }
 .reservation-calendar_custom .reservation-calendar_title .reservation-calendar_corner:hover {
-  color: #344a71;
-  border-color: #344a71;
+  color: rgb(5, 120, 190);
+  border-color: rgb(5, 120, 190);
 }
 .reservation-calendar_custom .reservation-calendar_title .reservation-calendar_corner.reservation-calendar_prev {
   left: 0;
@@ -7749,10 +7749,10 @@ blockquote p:after {
   -o-transform: translate(-50%, -50%);
 }
 .reservation-calendar_custom .reservation-calendar_tabel td a:hover:before {
-  border-color: #344a71;
+  border-color: rgb(5, 120, 190);
 }
 .reservation-calendar_custom .reservation-calendar_tabel td.current-select {
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
 }
 .reservation-calendar_custom .reservation-calendar_tabel td.current-select a {
   color: #fff;
@@ -7820,7 +7820,7 @@ blockquote p:after {
   display: inline-block;
   clear: both;
   margin-top: 10px;
-  color: #344a71;
+  color: rgb(5, 120, 190);
   font-size: 12px;
   font-weight: 600;
   margin-bottom: 25px;
@@ -7995,7 +7995,7 @@ blockquote p:after {
   -o-transition: all 0.3s ease;
 }
 .reservation-billing-detail .reservation-login a:hover {
-  color: #344a71;
+  color: rgb(5, 120, 190);
 }
 .reservation-billing-detail h4 {
   color: #000;
@@ -8107,7 +8107,7 @@ blockquote p:after {
   background-color: #1f232b;
 }
 #footer .footer_top {
-  background-color: #344a71;
+  background-color: rgb(5, 120, 190);
   padding: 20px 0;
 }
 #footer .footer_top .mailchimp h4 {
@@ -8328,7 +8328,7 @@ blockquote p:after {
     padding: 30px 0;
   }
   .check-availability:before {
-    background-color: #344a71;
+    background-color: rgb(5, 120, 190);
   }
   .check-availability h2 {
     line-height: 1.4em;
@@ -8575,7 +8575,7 @@ blockquote p:after {
     display: block;
   }
   .attraction_sidebar .attraction_heading:hover {
-    background-color: #344a71;
+    background-color: rgb(5, 120, 190);
     color: #fff;
   }
   .attraction_sidebar .attraction_sidebar-content {
@@ -9918,8 +9918,8 @@ blockquote p:after {
   line-height: 22px;
 }
 .list-field-send li .awe-btn.awe-btn-13:hover {
-  border-color: #344a71 !important;
-  background-color: #344a71 !important;
+  border-color: rgb(5, 120, 190) !important;
+  background-color: rgb(5, 120, 190) !important;
 }
 .reservation-confirm {
   color: white;
